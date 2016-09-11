@@ -142,4 +142,11 @@ header {
     color: #999;
     font-size: 14px; }
 
+/* footer */
+#footer {
+  display: inline-block;
+  width: 100%; }
+  #footer img {
+    height: 20px; }
+
 /*# sourceMappingURL=style.css.map */
